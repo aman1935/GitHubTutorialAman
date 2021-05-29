@@ -1,1 +1,1 @@
-# GitHubTutorialAman
+# GitHubTutorialAman hade ile gemire.
